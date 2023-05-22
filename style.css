@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: aquamarine;
+    height: 100vh;
+}
+.header{
+    padding-top: 50px;
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 40vw;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: 500;
+    border-radius: 20px;
+} 
+p{
+    color: "red";
+    text-align: center;
+    margin-top : 3rem;
+    font-size: 5rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+}  
+button{ 
+    background-color: aquamarine;
+    border: 2px solid aquamarine;  
+}
+.btn1{
+    margin-right: 30px;
+}
+i{
+    font-size: 6rem;
+    background-color: ;
+}
